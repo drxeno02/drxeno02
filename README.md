@@ -7,11 +7,9 @@ Leonard Tatum (Software Developer) has over a decade of programming and software
 Leonard has created and published 100s of professional mobile apps. His current flagship project is MIKROS. MIKROS is a SaaS product that enrolls developers in an information sharing ecosystem, also known as data pooling, that helps identify better insights about user behavior. Including user spending habits. 
 
 ## Follow Me
-Twitter: https://twitter.com/drxeno02
-
-Facebook: https://www.facebook.com/drxeno02
-
-Google+: https://plus.google.com/103506597564567028079
+Twitter: [https://twitter.com/drxeno02](https://twitter.com/drxeno02)\
+Facebook: [https://www.facebook.com/drxeno02](https://www.facebook.com/drxeno02)\
+LinkedinIn: [https://www.linkedin.com/in/leonard-tatum-768850105](https://www.linkedin.com/in/leonard-tatum-768850105])
 
 ## Some Stats
 
