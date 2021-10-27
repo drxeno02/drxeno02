@@ -8,7 +8,9 @@ Leonard has created and published 100s of professional mobile apps. His current 
 
 ## Follow Me
 Twitter: https://twitter.com/drxeno02
+
 Facebook: https://www.facebook.com/drxeno02
+
 Google+: https://plus.google.com/103506597564567028079
 
 ## Some Stats
